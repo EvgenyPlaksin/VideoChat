@@ -17,7 +17,6 @@ VideoChat is an Android application that enables real-time video communication u
 
 ## Prerequisites
 
-- **Android Studio**: Flamingo or later.
 - **Android SDK**: Minimum version 24.
 
 ## Getting Started
